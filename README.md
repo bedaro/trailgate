@@ -45,7 +45,7 @@ end
 
 The above example would produce the trail:
 
-    _Home_ > Breadcrumb content
+_Home_ > Breadcrumb content
 
 `build_breadcrumbs` passes an object to its block that can construct
 breadcrumbs. Its `breadcrumb` method will accept anything suitable for
